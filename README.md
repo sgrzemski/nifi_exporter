@@ -1,3 +1,5 @@
+## Purpose
+This repo was forked only to create pull request to fix errors in original source code.
 # Nifi Exporter
 
 Interrogates a running Apache NiFi instance and makes the following
